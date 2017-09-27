@@ -26,7 +26,7 @@
 - Win7/8/10
 
 ## Usage
-在根目录下将程序文件添加到matlab路径即可，命令：'addpath(genpath(pwd))'
+在根目录下将程序文件添加到matlab路径即可，命令：`addpath(genpath(pwd))`
 
 ## References
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
