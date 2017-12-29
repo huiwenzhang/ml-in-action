@@ -26,7 +26,8 @@
 - Win7/8/10
 
 ## Usage
-在根目录下将程序文件添加到matlab路径即可，命令：`addpath(genpath(pwd))`
+- clone仓库到本地`git clone ***.git`
+- 在根目录下将程序文件添加到matlab路径即可，命令：`addpath(genpath(pwd))`
 
 ## References
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
@@ -36,7 +37,3 @@
 - [huiwen](https://github.com/huiwen-cheung)
 - [yuquan](https://github.com/Ericyuquan)
 
-## Contact
-
-## Notes
-所有代码近期将会完成，**updating……**
