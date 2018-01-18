@@ -19,7 +19,7 @@
 - [chapter16: Gaussian mixture model](chapter16/)
 - [chapter17: DBSCAN](chapter17/)
 - [chapter18: Policy iteration & value iteration](chapter18/)
-- [chapter19: Q learning & SARSA](chapter/19)
+- [chapter19: Q learning & SARSA](chapter19/)
 
 ## Dependencies
 - MATLAB 2016b
