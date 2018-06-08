@@ -34,6 +34,6 @@
 - 李航、周志华的书，各种博客
 
 ## Contributor
-- [huiwen](https://github.com/huiwen-cheung)
+- [huiwen](https://github.com/huiwenzhang)
 - [yuquan](https://github.com/Ericyuquan)
 
