@@ -32,8 +32,10 @@
 ## References
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
 - 李航、周志华的书，各种博客
+- [知乎专栏](https://zhuanlan.zhihu.com/c_1060499676423471104)
 
 ## Contributor
 - [huiwen](https://github.com/huiwenzhang)
 - [yuquan](https://github.com/Ericyuquan)
+
 
