@@ -1,6 +1,6 @@
 # ml-in-action
 出版书籍《机器学习入门——MATLAB实战与应用》一书中的实例程序。涉及监督学习，非监督学习和强化学习。(code for book "Machine Learning Introduction &amp; Action in MATLAB")
-![](https://github.com/huiwenzhang/ml-in-action/blob/master/66d5be0a46c202c4.jpg)
+![](https://github.com/huiwenzhang/ml-in-action/blob/master/frontpage.jpg =250x)
 
 ## Table of Contents
 
