@@ -27,8 +27,12 @@
 - Win7/8/10
 
 ## Usage
-- clone仓库到本地`git clone ***.git`
+### Linux用户
+- clone仓库到本地`git clone https://github.com/huiwenzhang/ml-in-action.git`
 - 在根目录下将程序文件添加到matlab路径即可，命令：`addpath(genpath(pwd))`
+### Window用户：
+- 点击仓库右上角按钮`clone and download`，下拉菜单选择download zip
+- 解压，在MATLAB中添加代码的路径
 
 ## References
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/sutton/book/bookdraft2017june.pdf)
